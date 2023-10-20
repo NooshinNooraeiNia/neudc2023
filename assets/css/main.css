@@ -32,3 +32,19 @@ footer {
     background-color: var(--main-color);
     color: #fff;
 }
+.icon-bar {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    background-color: #83021e;
+    color: #fff;
+    font-weight: bold;
+}
+
+.icon-bar ul {
+    list-style: none;
+    padding: 0;
+}
+.icon-bar ul li {
+    padding: 15px;
+}
